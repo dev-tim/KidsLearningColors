@@ -1,0 +1,3 @@
+rootProject.name = 'KidsLearningColors'
+
+include ':app'
